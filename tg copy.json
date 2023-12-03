@@ -33,25 +33,61 @@
   ],
   "chats": [
     {
+      "id": 1,
       "members": [
         1,
         2
       ],
-      "messages": [
-        {
-          "text": "df\n",
-          "id": "f00fb2c7-6358-4d8f-a5a9-3a29320749dd",
-          "fromId": 1,
-          "date": 1701631488193
-        },
-        {
-          "text": "dgsoihsoidhgshguihsdghsuidhguishgshgusfgiushighsfiughisuhfguishf\n",
-          "id": "2a4fbadd-7bb9-4c94-88ca-85f4d7401920",
-          "fromId": 1,
-          "date": 1701631499173
-        }
+      "messages": []
+    },
+    {
+      "id": 2,
+      "members": [
+        3,
+        4
       ],
-      "id": 1
+      "messages": []
+    },
+    {
+      "id": 3,
+      "members": [
+        1,
+        4
+      ],
+      "messages": []
+    },
+    {
+      "id": 4,
+      "members": [
+        2,
+        3
+      ],
+      "messages": []
+    },
+    {
+      "id": 5,
+      "members": [
+        2,
+        4
+      ],
+      "messages": []
+    },
+    {
+      "id": 6,
+      "members": [
+        1,
+        3
+      ],
+      "messages": []
+    },
+
+    {
+      "id": 7,
+      "members": [
+        3,
+        5
+      ],
+      "messages": []
     }
   ]
 }

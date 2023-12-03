@@ -29,6 +29,12 @@
       "phone": "998901122475",
       "password": "901122475",
       "id": 5
+    },
+    {
+      "fullName": "MuhammadYusuf",
+      "phone": "998901234567",
+      "password": "12345",
+      "id": 6
     }
   ],
   "chats": [
@@ -52,6 +58,21 @@
         }
       ],
       "id": 1
+    },
+    {
+      "members": [
+        6,
+        3
+      ],
+      "messages": [
+        {
+          "text": "salom",
+          "id": "c309f42d-cdf1-4ca7-846d-f077d148a23a",
+          "fromId": 6,
+          "date": 1701632249406
+        }
+      ],
+      "id": 2
     }
   ]
 }

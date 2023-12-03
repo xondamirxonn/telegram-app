@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     alertElement.innerText = msg;
     let closeBtn = document.createElement("button");
     closeBtn.classList.add("ms-4");
-    closeBtn.innerText = "X";
+    closeBtn.innerHTML = "<i class='fa-regular fa-circle-xmark'></i>";
     alertElement.append(closeBtn);
     alerts.append(alertElement);
     closeBtn.addEventListener("click", () => alertElement.remove());
